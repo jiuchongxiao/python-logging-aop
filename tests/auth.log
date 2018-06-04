@@ -1,0 +1,2 @@
+aspectType-around-before-Invocation: name=<function AuthenticationBackend.auth at 0x0000029A1EC40400>, args=(<__main__.AuthenticationBackend object at 0x0000029A1EC35940>, 'aop', '#$%3&23%#$(%'), kwargs={}
+aspectType-around-after-Invocation: name=<function AuthenticationBackend.auth at 0x0000029A1EC40400>, args=(<__main__.AuthenticationBackend object at 0x0000029A1EC35940>, 'aop', '#$%3&23%#$(%'), kwargs={},response=True
